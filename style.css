@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.part-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.part-one__text{
+    text-decoration: none;
+    color: gray;
+}
+.part-one__text:hover{
+    color: white;
+}
+.container{
+    padding: 20px;
+}
+.part-two__card{
+ border: 2px solid black;
+ width: 300px;
+ display: inline-block;
+ padding-top: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+ text-align: center;
+}
+.part-two__button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius : 5px;
+}
+.part-two__button:hover{
+    background-color: white;
+    color: black;
+}
+.contact{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    
+}
+.contact-form{
+    display: inline-block;
+}
+.contact-button{
+    padding: 5px;
+    width: 200px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+
+
+
