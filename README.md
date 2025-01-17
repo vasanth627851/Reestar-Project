@@ -14,5 +14,5 @@ A simple one-page restaurant website built using HTML and CSS.
 * CSS3
 
   View Link
-  [link]
+  https://vasanth627851.github.io/Reestar-Project/
   
